@@ -78,7 +78,7 @@ span {
 
 @media (max-width:992px) {
     .container {
-        margin-top: 190px;
+        margin-top: 250px;
         grid-template-columns: none;
         grid-template-rows: 1fr;
         gap: 40px;
